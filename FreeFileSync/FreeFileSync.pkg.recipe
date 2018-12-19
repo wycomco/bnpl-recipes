@@ -59,7 +59,7 @@
             <key>Arguments</key>
             <dict>
                 <key>info_path</key>
-                <string>%RECIPE_CACHE_DIR%/expanded/FreeFileSync.pkg</string>
+                <string>%RECIPE_CACHE_DIR%/expanded/FreeFileSync.pkg/PackageInfo</string>
                 <key>plist_keys</key>
                 <dict>
                     <key>CFBundleShortVersionString</key>
