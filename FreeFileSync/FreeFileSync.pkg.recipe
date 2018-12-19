@@ -55,10 +55,10 @@
         </dict>
         <dict>
             <key>Processor</key>
-            <string>PlistReader</string>
+            <string>Versioner</string>
             <key>Arguments</key>
             <dict>
-                <key>info_path</key>
+                <key>input_plist_path</key>
                 <string>%RECIPE_CACHE_DIR%/expanded/FreeFileSync.pkg/PackageInfo</string>
                 <key>plist_keys</key>
                 <dict>
