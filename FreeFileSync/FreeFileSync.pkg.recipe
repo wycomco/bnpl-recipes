@@ -105,16 +105,6 @@
                             <key>group</key>
                             <string>admin</string>
                         </dict>
-                        <dict>
-                            <key>path</key>
-                            <string>Applications/FreeFileSync.app/Contents/MacOS/AppLauncher</string>
-                            <key>user</key>
-                            <string>root</string>
-                            <key>group</key>
-                            <string>admin</string>
-                            <key>mode</key>
-                            <string>755</string>
-                        </dict>
                     </array>
                 </dict>
             </dict>
