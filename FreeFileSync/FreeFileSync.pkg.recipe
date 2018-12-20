@@ -10,6 +10,8 @@
     <dict>
         <key>NAME</key>
         <string>FreeFileSync</string>
+        <key>PKG_ID</key>
+        <string>org.freefilesync.FreeFileSync</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.8</string>
@@ -75,8 +77,6 @@
                 <dict>
                     <key>CFBundleShortVersionString</key>
                     <string>version</string>
-                    <key>CFBundleIdentifier</key>
-                    <string>PKG_ID</string>
                 </dict>
             </dict>
         </dict>
